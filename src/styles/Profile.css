@@ -1,0 +1,11 @@
+#profileContainer{
+    color: white;
+  padding: 1.5vh 0;
+  font-size: 40px;
+  background-image: url("../images/profilebg.jpeg");
+  background-size: cover;
+  border-radius: 15px;
+}
+
+
+

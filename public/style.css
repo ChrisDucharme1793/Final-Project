@@ -1,0 +1,16 @@
+#profileImg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1rem;
+}
+
+.container {
+    background-color: transparent;
+}
+
+body{
+    font-family: 'BioRhyme', serif;
+}
+
+html, body { height:100%; }

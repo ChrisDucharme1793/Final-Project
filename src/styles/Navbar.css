@@ -1,0 +1,31 @@
+.navbar{
+  background: black;
+}
+
+.navbar-link{
+color: white;
+}
+
+
+
+#navlink{
+  color:white;
+}
+
+#navbarLeft{
+  color: white;
+}
+
+#navbarRight{
+  color: white;
+}
+
+#navbarRight :hover{
+color: blue;
+}
+
+
+#navbarLeft :hover{
+  color: blue;
+}
+

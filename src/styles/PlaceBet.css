@@ -1,0 +1,76 @@
+/* Available Games to bet on CSS */
+h1 {
+  color: white;
+  padding: 1.5vh 0;
+  font-size: 60px;
+  background-color:  black;
+  border-radius: 15px;
+  text-shadow: 4px 4px 4px  black;
+}
+
+/* table th{
+  color: white;
+  font-size: 50px;
+}
+
+td{
+  color: white;
+  font-size: 50px;
+} */
+
+
+
+  table {
+    width: 100%;
+    text-align: center;
+    border: 2px black solid;
+    font-family: "Varela Round", "Comfortaa", sans-serif;
+    
+    border-width: thick;
+   
+  }
+  
+  th {
+    height: 50px;
+    background-color: black;
+    color: green;
+    font-size: 25px;
+    
+  }
+  
+  tr {
+    height: 50px;
+    border: 2px black solid;
+    font-size: 25px;
+    padding: 1vh;
+    border-radius: 50px;
+  }
+
+  tbody tr {
+    background-color: white;
+    color: #000;
+  }
+  
+ 
+  
+    button {
+      border-radius: 15px;
+      padding: 10px 15px;
+      background-color: rgb(1, 66, 1);
+      opacity: 0.8;
+      font-family: "Varela Round", "Comfortaa", sans-serif;
+      font-size: 0.8em;
+      font-weight: bolder;
+      color: white;
+      border-color: black ;
+      border-width: medium;
+    }
+    
+    button:focus,
+    button:hover {
+      background-color: #17f617;
+      opacity: 1;
+    }
+    
+ 
+  
