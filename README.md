@@ -1,92 +1,47 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Betu-LATEoR
+![EGL Screenshot](egl.png)
 
-## Available Scripts
-as
-In the project directory, you can run:
+## Description
+Sports Gambling Application that users can use to keep track of current bets along with getting odds as they are published by sports bookies around the country
 
-### `npm start`
+## Technologies
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- [React](https://reactjs.org/) 
+- [Bulma](https://bulma.io/) 
+- [MongoDB](https://www.mongodb.com/) 
+- [Heroku](https://dashboard.heroku.com/) 
+- [Passport](http://www.passportjs.org/)  
+- [jQuery](https://jquery.com/)
+- [Rapid API](https://rapidapi.com/)
+- [Bootstrap](https://getbootstrap.com/)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Usage and Installation
 
-### `npm test`
+Feel free to clone or fork this repo if you find it useful. To install dependencies make sure to run:
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```
+npm i
+```
 
-### `npm run build`
+If everything is ok you should be able to see this app running locally in your browser at localhost:8080. 
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Demo
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+Demo is still in progress... but below is the current Heroku Deployed version
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+[Heroku Demo](https://Betulateor.herokuapp.com/)
 
-### `npm run eject`
+## Contributing
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+-Kevin Cox(Co-Creator) - kevincox1983@gmail.com
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+-Chris Ducharme(Co-Creator) - ducharme.christophert@gmail.com
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+-Chad Worthan(Co-Creator) - chadwworthan@gmail.com
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+If you wish to contribute to this project please do a pull request. That be super cool.
 
-## Learn More
+## Questions?
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-
-1) what will app do?
-Will allow user to create an account, login and add funds. Allow the user to wager on various events(sports/esports/prop bets) subtracting or adding funds depending on the outcome .
-2.)what technologies do you anticipate using?
-ReactJS
-NodeJS
-Heroku
-MongoDB - Mongoose
-Passport
-API's---sporting event data
-Express
-CSS Library (undecided)
-3.)Who will be responsible for which parts of the app (inital estimate)?
-Chris-React Components / Frontend
-Kevin-DB / backend
-Chad-React Pages / Frontend
-We will all help in all phases of the project where help is needed.
-4)Who will be responsible for each part of deliverable #1?
-	a. Overview of the intended app and WHY you fell it is valuable (Chris)
-	b. Breakdown of team-member roles (Chris, Chad, Kevin)
-	c. screenhots of project board (Chad)
-	d. schedule of completing various task/features/phases of your project (Chris, Chad, Kevin)
-	e. detailed screen flow mock-ups and design with annotations (Kevin)
-    week 1 deliverables updated 6-17-2020
+Have any questions? Want to collaborate on a project? Shoot one of us an email)
