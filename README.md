@@ -1,5 +1,5 @@
 # Betu-LATEoR
-![EGL Screenshot](egl.png)
+
 
 ## Description
 Sports Gambling Application that users can use to keep track of current bets along with getting odds as they are published by sports bookies around the country
